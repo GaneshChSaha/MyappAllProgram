@@ -9,7 +9,7 @@ import {Dashboard} from './Header/Dashboard';
 import ComponentY from './ComponentY';
 import { Tweet } from './Tweet';
 import Calculator from './component/calc/Calculator';
-//import GreetUser from './GreetUser';
+import GreetUser from './GreetUserOne';
 import SimpleCalc from './SimpleCalc';
 import SimpleCalctwo from './SimpleCalctwo';
 import StylingDemo from './StylingDemo';
