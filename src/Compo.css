@@ -1,0 +1,18 @@
+.avatar img{
+    height: 80px;
+    width: 80px;
+}
+
+.author{
+    height: 10px;
+}
+
+
+
+.comment{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
