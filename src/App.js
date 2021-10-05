@@ -9,7 +9,7 @@ import {Dashboard} from './Header/Dashboard';
 import ComponentY from './ComponentY';
 import { Tweet } from './Tweet';
 import Calculator from './component/calc/Calculator';
-import GreetUser from './GreetUserOne';
+import GreetUserOne from './GreetUserOne';
 import SimpleCalc from './SimpleCalc';
 import SimpleCalctwo from './SimpleCalctwo';
 import StylingDemo from './StylingDemo';
@@ -33,6 +33,7 @@ function App() {
       <StylingDemo/>
       <Calculator/>
       <Componentx/>
+      <GreetUserOne/>
       <Firstapp/>
       <Secondapp/>
       <Footer/>
